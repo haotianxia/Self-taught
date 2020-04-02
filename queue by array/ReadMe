@@ -1,1 +1,2 @@
-#I just wondering why there is no memory leak in dynamic array. Or why we don't need to consider memory leak situations, 
+
+# there is a memory leak but the most important thing is to visualize the data structure
